@@ -1,5 +1,5 @@
 Hi 👋
-I'm Shilpa Kumari a passionate coder on a journey to turn coffee into code. 🚀
+I'm Shilpa Kumari a passionate coder on a journey to turn coffee into codes.✨🚀
 
 - 🌱 Currently growing my skills in web developing.
 - 💼 Open to collaboration on projects that make a difference.

@@ -1,6 +1,10 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ganeshmumbai2001&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshmumbai2001" /> </p>
+<a href="#Shilpakumari_12"-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshmumbai2001&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Shilpakumari_12" align="right" />
+</a>
 
 
-I'm @Shilpa Kumari a passionate coder on a journey to turn coffee into codes.✨🚀
+I'm Shilpa Kumari a passionate coder on a journey to turn coffee into codes.✨🚀
 
 - ✨ I'm pursuing my Bachelor of Information Technology
 - 🌱 Currently growing my skills in web developing.
